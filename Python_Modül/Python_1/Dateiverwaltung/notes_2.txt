@@ -1,3 +1,0 @@
-Python ist eine vielseitige Programmiersprache.
-Python ist eine opensource Programmiersprache.
-Python ist eine einfach Programmiersprache.
